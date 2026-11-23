@@ -1,0 +1,13 @@
+{
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "redirects": [
+    {
+      "source": "/downloads/VoidRes.exe",
+      "destination": "https://github.com/toilemon07-lang/VoidRes1/releases/download/v2.1.0/VoidRes.exe",
+      "permanent": false
+    }
+  ]
+}
